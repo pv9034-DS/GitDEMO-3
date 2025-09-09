@@ -1,3 +1,12 @@
+# Python Assignment
+
+## 📌 Overview
+This part of the assignment contains Python programs that demonstrate the use of **functions**, **recursion**, and the **math module** in Python.
+
+---
+
+## 📝 Tasks
+
 ### 🔹 Task 1: Factorial Function (Recursion)
 A Python program that:
 1. Defines a function named `factorial` that takes a number as an argument  
