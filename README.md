@@ -15,9 +15,13 @@ A Python program that:
 4. Calls the function with a sample number and prints the result  
 
 # Sample number
+<br>
 num = 6
+<br>
 print(f"Factorial of {num} is: {factorial(num)}")
+<br>
 Example Output:
+<br>
 Factorial of 6 is: 720
 
 ### 🔹 Task 2: Math Module Operations
@@ -30,7 +34,11 @@ A Python program that:
 3. Displays the calculated results  
 
 **Example Output:**
+<br>
 Enter a number: 9
+<br>
 Square root of 9.0 is: 3.0
+<br>
 Natural logarithm of 9.0 is: 2.1972245773362196
+<br>
 Sine of 9.0 (in radians) is: 0.4121184852417566
