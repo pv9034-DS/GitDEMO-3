@@ -14,7 +14,7 @@ A Python program that:
 3. Returns the calculated factorial  
 4. Calls the function with a sample number and prints the result  
 
-# Sample number
+**Sample number:**
 <br>
 num = 6
 <br>
